@@ -1,0 +1,18 @@
+C:\Users\pparahyba\source\repos\chaptertestesunitarios.business\bin\Debug\chaptertestesunitarios.business.dll
+C:\Users\pparahyba\source\repos\chaptertestesunitarios.business\bin\Debug\chaptertestesunitarios.business.pdb
+C:\Users\pparahyba\source\repos\chaptertestesunitarios.business\bin\Debug\chaptertestesunitarios.infraestructure.dll
+C:\Users\pparahyba\source\repos\chaptertestesunitarios.business\bin\Debug\chaptertestesunitarios.infraestructure.pdb
+C:\Users\pparahyba\source\repos\chaptertestesunitarios.business\obj\Debug\chaptertestesunitarios.business.csproj.AssemblyReference.cache
+C:\Users\pparahyba\source\repos\chaptertestesunitarios.business\obj\Debug\chaptertestesunitarios.business.csproj.CoreCompileInputs.cache
+C:\Users\pparahyba\source\repos\chaptertestesunitarios.business\obj\Debug\chaptertestesunitarios.business.csproj.CopyComplete
+C:\Users\pparahyba\source\repos\chaptertestesunitarios.business\obj\Debug\chaptertestesunitarios.business.dll
+C:\Users\pparahyba\source\repos\chaptertestesunitarios.business\obj\Debug\chaptertestesunitarios.business.pdb
+C:\Users\dbrodrigues\Desktop\TESTE UNITARIO CHAPTER\chaptertestesunitarios.business\bin\Debug\chaptertestesunitarios.business.dll
+C:\Users\dbrodrigues\Desktop\TESTE UNITARIO CHAPTER\chaptertestesunitarios.business\bin\Debug\chaptertestesunitarios.business.pdb
+C:\Users\dbrodrigues\Desktop\TESTE UNITARIO CHAPTER\chaptertestesunitarios.business\bin\Debug\chaptertestesunitarios.infraestructure.dll
+C:\Users\dbrodrigues\Desktop\TESTE UNITARIO CHAPTER\chaptertestesunitarios.business\bin\Debug\chaptertestesunitarios.infraestructure.pdb
+C:\Users\dbrodrigues\Desktop\TESTE UNITARIO CHAPTER\chaptertestesunitarios.business\obj\Debug\chaptertestesunitarios.business.csproj.AssemblyReference.cache
+C:\Users\dbrodrigues\Desktop\TESTE UNITARIO CHAPTER\chaptertestesunitarios.business\obj\Debug\chaptertestesunitarios.business.csproj.CoreCompileInputs.cache
+C:\Users\dbrodrigues\Desktop\TESTE UNITARIO CHAPTER\chaptertestesunitarios.business\obj\Debug\chaptertestesunitarios.business.csproj.CopyComplete
+C:\Users\dbrodrigues\Desktop\TESTE UNITARIO CHAPTER\chaptertestesunitarios.business\obj\Debug\chaptertestesunitarios.business.dll
+C:\Users\dbrodrigues\Desktop\TESTE UNITARIO CHAPTER\chaptertestesunitarios.business\obj\Debug\chaptertestesunitarios.business.pdb

@@ -1,0 +1,52 @@
+C:\Users\pparahyba\source\repos\chaptertestesunitarios\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\pparahyba\source\repos\chaptertestesunitarios\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\pparahyba\source\repos\chaptertestesunitarios\bin\Debug\netcoreapp3.1\chaptertestesunitarios.exe
+C:\Users\pparahyba\source\repos\chaptertestesunitarios\bin\Debug\netcoreapp3.1\chaptertestesunitarios.deps.json
+C:\Users\pparahyba\source\repos\chaptertestesunitarios\bin\Debug\netcoreapp3.1\chaptertestesunitarios.runtimeconfig.json
+C:\Users\pparahyba\source\repos\chaptertestesunitarios\bin\Debug\netcoreapp3.1\chaptertestesunitarios.runtimeconfig.dev.json
+C:\Users\pparahyba\source\repos\chaptertestesunitarios\bin\Debug\netcoreapp3.1\chaptertestesunitarios.dll
+C:\Users\pparahyba\source\repos\chaptertestesunitarios\bin\Debug\netcoreapp3.1\chaptertestesunitarios.pdb
+C:\Users\pparahyba\source\repos\chaptertestesunitarios\bin\Debug\netcoreapp3.1\chaptertestesunitarios.business.dll
+C:\Users\pparahyba\source\repos\chaptertestesunitarios\bin\Debug\netcoreapp3.1\chaptertestesunitarios.infraestructure.dll
+C:\Users\pparahyba\source\repos\chaptertestesunitarios\bin\Debug\netcoreapp3.1\chaptertestesunitarios.business.pdb
+C:\Users\pparahyba\source\repos\chaptertestesunitarios\bin\Debug\netcoreapp3.1\chaptertestesunitarios.infraestructure.pdb
+C:\Users\pparahyba\source\repos\chaptertestesunitarios\obj\Debug\netcoreapp3.1\chaptertestesunitarios.csproj.AssemblyReference.cache
+C:\Users\pparahyba\source\repos\chaptertestesunitarios\obj\Debug\netcoreapp3.1\chaptertestesunitarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pparahyba\source\repos\chaptertestesunitarios\obj\Debug\netcoreapp3.1\chaptertestesunitarios.AssemblyInfoInputs.cache
+C:\Users\pparahyba\source\repos\chaptertestesunitarios\obj\Debug\netcoreapp3.1\chaptertestesunitarios.AssemblyInfo.cs
+C:\Users\pparahyba\source\repos\chaptertestesunitarios\obj\Debug\netcoreapp3.1\chaptertestesunitarios.csproj.CoreCompileInputs.cache
+C:\Users\pparahyba\source\repos\chaptertestesunitarios\obj\Debug\netcoreapp3.1\chaptertestesunitarios.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pparahyba\source\repos\chaptertestesunitarios\obj\Debug\netcoreapp3.1\staticwebassets\chaptertestesunitarios.StaticWebAssets.Manifest.cache
+C:\Users\pparahyba\source\repos\chaptertestesunitarios\obj\Debug\netcoreapp3.1\staticwebassets\chaptertestesunitarios.StaticWebAssets.xml
+C:\Users\pparahyba\source\repos\chaptertestesunitarios\obj\Debug\netcoreapp3.1\scopedcss\bundle\chaptertestesunitarios.styles.css
+C:\Users\pparahyba\source\repos\chaptertestesunitarios\obj\Debug\netcoreapp3.1\chaptertestesunitarios.RazorTargetAssemblyInfo.cache
+C:\Users\pparahyba\source\repos\chaptertestesunitarios\obj\Debug\netcoreapp3.1\chaptertestesunitarios.csproj.CopyComplete
+C:\Users\pparahyba\source\repos\chaptertestesunitarios\obj\Debug\netcoreapp3.1\chaptertestesunitarios.dll
+C:\Users\pparahyba\source\repos\chaptertestesunitarios\obj\Debug\netcoreapp3.1\chaptertestesunitarios.pdb
+C:\Users\pparahyba\source\repos\chaptertestesunitarios\obj\Debug\netcoreapp3.1\chaptertestesunitarios.genruntimeconfig.cache
+C:\Users\dbrodrigues\Desktop\TESTE UNITARIO CHAPTER\chaptertestesunitarios\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\dbrodrigues\Desktop\TESTE UNITARIO CHAPTER\chaptertestesunitarios\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\dbrodrigues\Desktop\TESTE UNITARIO CHAPTER\chaptertestesunitarios\bin\Debug\netcoreapp3.1\chaptertestesunitarios.exe
+C:\Users\dbrodrigues\Desktop\TESTE UNITARIO CHAPTER\chaptertestesunitarios\bin\Debug\netcoreapp3.1\chaptertestesunitarios.deps.json
+C:\Users\dbrodrigues\Desktop\TESTE UNITARIO CHAPTER\chaptertestesunitarios\bin\Debug\netcoreapp3.1\chaptertestesunitarios.runtimeconfig.json
+C:\Users\dbrodrigues\Desktop\TESTE UNITARIO CHAPTER\chaptertestesunitarios\bin\Debug\netcoreapp3.1\chaptertestesunitarios.runtimeconfig.dev.json
+C:\Users\dbrodrigues\Desktop\TESTE UNITARIO CHAPTER\chaptertestesunitarios\bin\Debug\netcoreapp3.1\chaptertestesunitarios.dll
+C:\Users\dbrodrigues\Desktop\TESTE UNITARIO CHAPTER\chaptertestesunitarios\bin\Debug\netcoreapp3.1\chaptertestesunitarios.pdb
+C:\Users\dbrodrigues\Desktop\TESTE UNITARIO CHAPTER\chaptertestesunitarios\bin\Debug\netcoreapp3.1\chaptertestesunitarios.business.dll
+C:\Users\dbrodrigues\Desktop\TESTE UNITARIO CHAPTER\chaptertestesunitarios\bin\Debug\netcoreapp3.1\chaptertestesunitarios.infraestructure.dll
+C:\Users\dbrodrigues\Desktop\TESTE UNITARIO CHAPTER\chaptertestesunitarios\bin\Debug\netcoreapp3.1\chaptertestesunitarios.business.pdb
+C:\Users\dbrodrigues\Desktop\TESTE UNITARIO CHAPTER\chaptertestesunitarios\bin\Debug\netcoreapp3.1\chaptertestesunitarios.infraestructure.pdb
+C:\Users\dbrodrigues\Desktop\TESTE UNITARIO CHAPTER\chaptertestesunitarios\obj\Debug\netcoreapp3.1\chaptertestesunitarios.csproj.AssemblyReference.cache
+C:\Users\dbrodrigues\Desktop\TESTE UNITARIO CHAPTER\chaptertestesunitarios\obj\Debug\netcoreapp3.1\chaptertestesunitarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dbrodrigues\Desktop\TESTE UNITARIO CHAPTER\chaptertestesunitarios\obj\Debug\netcoreapp3.1\chaptertestesunitarios.AssemblyInfoInputs.cache
+C:\Users\dbrodrigues\Desktop\TESTE UNITARIO CHAPTER\chaptertestesunitarios\obj\Debug\netcoreapp3.1\chaptertestesunitarios.AssemblyInfo.cs
+C:\Users\dbrodrigues\Desktop\TESTE UNITARIO CHAPTER\chaptertestesunitarios\obj\Debug\netcoreapp3.1\chaptertestesunitarios.csproj.CoreCompileInputs.cache
+C:\Users\dbrodrigues\Desktop\TESTE UNITARIO CHAPTER\chaptertestesunitarios\obj\Debug\netcoreapp3.1\chaptertestesunitarios.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dbrodrigues\Desktop\TESTE UNITARIO CHAPTER\chaptertestesunitarios\obj\Debug\netcoreapp3.1\staticwebassets\chaptertestesunitarios.StaticWebAssets.Manifest.cache
+C:\Users\dbrodrigues\Desktop\TESTE UNITARIO CHAPTER\chaptertestesunitarios\obj\Debug\netcoreapp3.1\staticwebassets\chaptertestesunitarios.StaticWebAssets.xml
+C:\Users\dbrodrigues\Desktop\TESTE UNITARIO CHAPTER\chaptertestesunitarios\obj\Debug\netcoreapp3.1\scopedcss\bundle\chaptertestesunitarios.styles.css
+C:\Users\dbrodrigues\Desktop\TESTE UNITARIO CHAPTER\chaptertestesunitarios\obj\Debug\netcoreapp3.1\chaptertestesunitarios.RazorTargetAssemblyInfo.cache
+C:\Users\dbrodrigues\Desktop\TESTE UNITARIO CHAPTER\chaptertestesunitarios\obj\Debug\netcoreapp3.1\chaptertestesunitarios.csproj.CopyComplete
+C:\Users\dbrodrigues\Desktop\TESTE UNITARIO CHAPTER\chaptertestesunitarios\obj\Debug\netcoreapp3.1\chaptertestesunitarios.dll
+C:\Users\dbrodrigues\Desktop\TESTE UNITARIO CHAPTER\chaptertestesunitarios\obj\Debug\netcoreapp3.1\chaptertestesunitarios.pdb
+C:\Users\dbrodrigues\Desktop\TESTE UNITARIO CHAPTER\chaptertestesunitarios\obj\Debug\netcoreapp3.1\chaptertestesunitarios.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\pparahyba\source\repos\chaptertestesunitarios.infraestructure\bin\Debug\chaptertestesunitarios.infraestructure.dll
+C:\Users\pparahyba\source\repos\chaptertestesunitarios.infraestructure\bin\Debug\chaptertestesunitarios.infraestructure.pdb
+C:\Users\pparahyba\source\repos\chaptertestesunitarios.infraestructure\obj\Debug\chaptertestesunitarios.infraestructure.csproj.AssemblyReference.cache
+C:\Users\pparahyba\source\repos\chaptertestesunitarios.infraestructure\obj\Debug\chaptertestesunitarios.infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\pparahyba\source\repos\chaptertestesunitarios.infraestructure\obj\Debug\chaptertestesunitarios.infraestructure.dll
+C:\Users\pparahyba\source\repos\chaptertestesunitarios.infraestructure\obj\Debug\chaptertestesunitarios.infraestructure.pdb
+C:\Users\dbrodrigues\Desktop\TESTE UNITARIO CHAPTER\chaptertestesunitarios.infraestructure\bin\Debug\chaptertestesunitarios.infraestructure.dll
+C:\Users\dbrodrigues\Desktop\TESTE UNITARIO CHAPTER\chaptertestesunitarios.infraestructure\bin\Debug\chaptertestesunitarios.infraestructure.pdb
+C:\Users\dbrodrigues\Desktop\TESTE UNITARIO CHAPTER\chaptertestesunitarios.infraestructure\obj\Debug\chaptertestesunitarios.infraestructure.csproj.AssemblyReference.cache
+C:\Users\dbrodrigues\Desktop\TESTE UNITARIO CHAPTER\chaptertestesunitarios.infraestructure\obj\Debug\chaptertestesunitarios.infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\dbrodrigues\Desktop\TESTE UNITARIO CHAPTER\chaptertestesunitarios.infraestructure\obj\Debug\chaptertestesunitarios.infraestructure.dll
+C:\Users\dbrodrigues\Desktop\TESTE UNITARIO CHAPTER\chaptertestesunitarios.infraestructure\obj\Debug\chaptertestesunitarios.infraestructure.pdb
