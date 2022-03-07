@@ -15,5 +15,6 @@ namespace chaptertestesunitarios.infraestructure.Models
         public string LastName { get; set; }
 
         public string LegalId { get; set; }
+
     }
 }

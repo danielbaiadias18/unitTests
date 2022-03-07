@@ -16,3 +16,12 @@ C:\Users\dbrodrigues\Desktop\TESTE UNITARIO CHAPTER\chaptertestesunitarios.busin
 C:\Users\dbrodrigues\Desktop\TESTE UNITARIO CHAPTER\chaptertestesunitarios.business\obj\Debug\chaptertestesunitarios.business.csproj.CopyComplete
 C:\Users\dbrodrigues\Desktop\TESTE UNITARIO CHAPTER\chaptertestesunitarios.business\obj\Debug\chaptertestesunitarios.business.dll
 C:\Users\dbrodrigues\Desktop\TESTE UNITARIO CHAPTER\chaptertestesunitarios.business\obj\Debug\chaptertestesunitarios.business.pdb
+C:\ProjetoCoach\Teste Dani\unitTests\chaptertestesunitarios.business\bin\Debug\chaptertestesunitarios.business.dll
+C:\ProjetoCoach\Teste Dani\unitTests\chaptertestesunitarios.business\bin\Debug\chaptertestesunitarios.business.pdb
+C:\ProjetoCoach\Teste Dani\unitTests\chaptertestesunitarios.business\bin\Debug\chaptertestesunitarios.infraestructure.dll
+C:\ProjetoCoach\Teste Dani\unitTests\chaptertestesunitarios.business\bin\Debug\chaptertestesunitarios.infraestructure.pdb
+C:\ProjetoCoach\Teste Dani\unitTests\chaptertestesunitarios.business\obj\Debug\chaptertestesunitarios.business.csproj.AssemblyReference.cache
+C:\ProjetoCoach\Teste Dani\unitTests\chaptertestesunitarios.business\obj\Debug\chaptertestesunitarios.business.csproj.CoreCompileInputs.cache
+C:\ProjetoCoach\Teste Dani\unitTests\chaptertestesunitarios.business\obj\Debug\chaptertestesunitarios.business.csproj.CopyComplete
+C:\ProjetoCoach\Teste Dani\unitTests\chaptertestesunitarios.business\obj\Debug\chaptertestesunitarios.business.dll
+C:\ProjetoCoach\Teste Dani\unitTests\chaptertestesunitarios.business\obj\Debug\chaptertestesunitarios.business.pdb

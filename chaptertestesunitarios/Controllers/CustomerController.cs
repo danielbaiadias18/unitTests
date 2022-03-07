@@ -6,6 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using chaptertestesunitarios.business.Customer;
 using chaptertestesunitarios.business.Customer.Dto;
+using chaptertestesunitarios.business.Customer.Models.Request;
 
 namespace chaptertestesunitarios.Controllers
 {
@@ -26,6 +27,13 @@ namespace chaptertestesunitarios.Controllers
         {
             var result = service.Get(legalId);
             return Ok(result);
+        }
+
+        [HttpPost]
+        public ActionResult Post(CustomerPostRequest request)
+        {
+            service.Post(request);
+            return Ok();
         }
     }
 }

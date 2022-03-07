@@ -50,3 +50,34 @@ C:\Users\dbrodrigues\Desktop\TESTE UNITARIO CHAPTER\chaptertestesunitarios\obj\D
 C:\Users\dbrodrigues\Desktop\TESTE UNITARIO CHAPTER\chaptertestesunitarios\obj\Debug\netcoreapp3.1\chaptertestesunitarios.dll
 C:\Users\dbrodrigues\Desktop\TESTE UNITARIO CHAPTER\chaptertestesunitarios\obj\Debug\netcoreapp3.1\chaptertestesunitarios.pdb
 C:\Users\dbrodrigues\Desktop\TESTE UNITARIO CHAPTER\chaptertestesunitarios\obj\Debug\netcoreapp3.1\chaptertestesunitarios.genruntimeconfig.cache
+C:\ProjetoCoach\Teste Dani\unitTests\chaptertestesunitarios\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\ProjetoCoach\Teste Dani\unitTests\chaptertestesunitarios\bin\Debug\netcoreapp3.1\appsettings.json
+C:\ProjetoCoach\Teste Dani\unitTests\chaptertestesunitarios\bin\Debug\netcoreapp3.1\chaptertestesunitarios.exe
+C:\ProjetoCoach\Teste Dani\unitTests\chaptertestesunitarios\bin\Debug\netcoreapp3.1\chaptertestesunitarios.deps.json
+C:\ProjetoCoach\Teste Dani\unitTests\chaptertestesunitarios\bin\Debug\netcoreapp3.1\chaptertestesunitarios.runtimeconfig.json
+C:\ProjetoCoach\Teste Dani\unitTests\chaptertestesunitarios\bin\Debug\netcoreapp3.1\chaptertestesunitarios.runtimeconfig.dev.json
+C:\ProjetoCoach\Teste Dani\unitTests\chaptertestesunitarios\bin\Debug\netcoreapp3.1\chaptertestesunitarios.dll
+C:\ProjetoCoach\Teste Dani\unitTests\chaptertestesunitarios\bin\Debug\netcoreapp3.1\chaptertestesunitarios.pdb
+C:\ProjetoCoach\Teste Dani\unitTests\chaptertestesunitarios\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\ProjetoCoach\Teste Dani\unitTests\chaptertestesunitarios\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\ProjetoCoach\Teste Dani\unitTests\chaptertestesunitarios\bin\Debug\netcoreapp3.1\chaptertestesunitarios.business.dll
+C:\ProjetoCoach\Teste Dani\unitTests\chaptertestesunitarios\bin\Debug\netcoreapp3.1\chaptertestesunitarios.infraestructure.dll
+C:\ProjetoCoach\Teste Dani\unitTests\chaptertestesunitarios\bin\Debug\netcoreapp3.1\chaptertestesunitarios.business.pdb
+C:\ProjetoCoach\Teste Dani\unitTests\chaptertestesunitarios\bin\Debug\netcoreapp3.1\chaptertestesunitarios.infraestructure.pdb
+C:\ProjetoCoach\Teste Dani\unitTests\chaptertestesunitarios\obj\Debug\netcoreapp3.1\chaptertestesunitarios.csproj.AssemblyReference.cache
+C:\ProjetoCoach\Teste Dani\unitTests\chaptertestesunitarios\obj\Debug\netcoreapp3.1\chaptertestesunitarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetoCoach\Teste Dani\unitTests\chaptertestesunitarios\obj\Debug\netcoreapp3.1\chaptertestesunitarios.AssemblyInfoInputs.cache
+C:\ProjetoCoach\Teste Dani\unitTests\chaptertestesunitarios\obj\Debug\netcoreapp3.1\chaptertestesunitarios.AssemblyInfo.cs
+C:\ProjetoCoach\Teste Dani\unitTests\chaptertestesunitarios\obj\Debug\netcoreapp3.1\chaptertestesunitarios.csproj.CoreCompileInputs.cache
+C:\ProjetoCoach\Teste Dani\unitTests\chaptertestesunitarios\obj\Debug\netcoreapp3.1\chaptertestesunitarios.MvcApplicationPartsAssemblyInfo.cache
+C:\ProjetoCoach\Teste Dani\unitTests\chaptertestesunitarios\obj\Debug\netcoreapp3.1\staticwebassets\chaptertestesunitarios.StaticWebAssets.Manifest.cache
+C:\ProjetoCoach\Teste Dani\unitTests\chaptertestesunitarios\obj\Debug\netcoreapp3.1\staticwebassets\chaptertestesunitarios.StaticWebAssets.xml
+C:\ProjetoCoach\Teste Dani\unitTests\chaptertestesunitarios\obj\Debug\netcoreapp3.1\scopedcss\bundle\chaptertestesunitarios.styles.css
+C:\ProjetoCoach\Teste Dani\unitTests\chaptertestesunitarios\obj\Debug\netcoreapp3.1\chaptertestesunitarios.RazorTargetAssemblyInfo.cache
+C:\ProjetoCoach\Teste Dani\unitTests\chaptertestesunitarios\obj\Debug\netcoreapp3.1\chaptertestesunitarios.csproj.CopyComplete
+C:\ProjetoCoach\Teste Dani\unitTests\chaptertestesunitarios\obj\Debug\netcoreapp3.1\chaptertestesunitarios.dll
+C:\ProjetoCoach\Teste Dani\unitTests\chaptertestesunitarios\obj\Debug\netcoreapp3.1\chaptertestesunitarios.pdb
+C:\ProjetoCoach\Teste Dani\unitTests\chaptertestesunitarios\obj\Debug\netcoreapp3.1\chaptertestesunitarios.genruntimeconfig.cache
+C:\ProjetoCoach\Teste Dani\unitTests\chaptertestesunitarios\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\ProjetoCoach\Teste Dani\unitTests\chaptertestesunitarios\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\ProjetoCoach\Teste Dani\unitTests\chaptertestesunitarios\obj\Debug\netcoreapp3.1\chaptertestesunitarios.MvcApplicationPartsAssemblyInfo.cs

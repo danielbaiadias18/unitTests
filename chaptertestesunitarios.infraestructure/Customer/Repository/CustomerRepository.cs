@@ -1,16 +1,15 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace chaptertestesunitarios.infraestructure.Customer.Repository
 {
     public class CustomerRepository : ICustomerRepository
     {
-        public List<Models.Customer> Get(string legalId)
+        private List<Models.Customer> list;
+
+        public CustomerRepository()
         {
-            var list = new List<Models.Customer>()
+            list = new List<Models.Customer>()
             {
                 new Models.Customer()
                 {
@@ -27,8 +26,20 @@ namespace chaptertestesunitarios.infraestructure.Customer.Repository
                     Name = "José"
                 }
             };
-
+        }
+        public List<Models.Customer> Get(string legalId)
+        {
             return list.Where(x => x.LegalId == legalId).ToList();
+        }
+
+        public void Post(Models.Customer customer)
+        {
+            list.Add(customer);
+        }
+
+        public IEnumerable<Models.Customer> GetCustomerByName(string name)
+        {
+            return list.Where(e => e.Name.Equals(name));
         }
     }
 }

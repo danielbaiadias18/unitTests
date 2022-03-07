@@ -43,6 +43,7 @@
   <ItemGroup>
     <Compile Include="Customer\Dto\CustomerResponse.cs" />
     <Compile Include="Customer\Interfaces\ICustomerService.cs" />
+    <Compile Include="Customer\Models\Request\CustomerPostRequest.cs" />
     <Compile Include="Customer\Services\CustomerService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -51,6 +52,9 @@
       <Project>{2B406A8E-B52F-4026-A45C-D422A15934BC}</Project>
       <Name>chaptertestesunitarios.infraestructure</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Customer\Models\Response\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

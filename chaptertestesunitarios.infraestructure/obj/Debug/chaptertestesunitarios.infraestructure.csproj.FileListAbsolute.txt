@@ -10,3 +10,9 @@ C:\Users\dbrodrigues\Desktop\TESTE UNITARIO CHAPTER\chaptertestesunitarios.infra
 C:\Users\dbrodrigues\Desktop\TESTE UNITARIO CHAPTER\chaptertestesunitarios.infraestructure\obj\Debug\chaptertestesunitarios.infraestructure.csproj.CoreCompileInputs.cache
 C:\Users\dbrodrigues\Desktop\TESTE UNITARIO CHAPTER\chaptertestesunitarios.infraestructure\obj\Debug\chaptertestesunitarios.infraestructure.dll
 C:\Users\dbrodrigues\Desktop\TESTE UNITARIO CHAPTER\chaptertestesunitarios.infraestructure\obj\Debug\chaptertestesunitarios.infraestructure.pdb
+C:\ProjetoCoach\Teste Dani\unitTests\chaptertestesunitarios.infraestructure\bin\Debug\chaptertestesunitarios.infraestructure.dll
+C:\ProjetoCoach\Teste Dani\unitTests\chaptertestesunitarios.infraestructure\bin\Debug\chaptertestesunitarios.infraestructure.pdb
+C:\ProjetoCoach\Teste Dani\unitTests\chaptertestesunitarios.infraestructure\obj\Debug\chaptertestesunitarios.infraestructure.csproj.AssemblyReference.cache
+C:\ProjetoCoach\Teste Dani\unitTests\chaptertestesunitarios.infraestructure\obj\Debug\chaptertestesunitarios.infraestructure.csproj.CoreCompileInputs.cache
+C:\ProjetoCoach\Teste Dani\unitTests\chaptertestesunitarios.infraestructure\obj\Debug\chaptertestesunitarios.infraestructure.dll
+C:\ProjetoCoach\Teste Dani\unitTests\chaptertestesunitarios.infraestructure\obj\Debug\chaptertestesunitarios.infraestructure.pdb

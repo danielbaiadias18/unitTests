@@ -1,19 +1,19 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dbrodrigues\\Desktop\\TESTE UNITARIO CHAPTER\\chaptertestesunitarios\\chaptertestesunitarios.csproj": {}
+    "C:\\ProjetoCoach\\Teste Dani\\unitTests\\chaptertestesunitarios\\chaptertestesunitarios.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dbrodrigues\\Desktop\\TESTE UNITARIO CHAPTER\\chaptertestesunitarios.business\\chaptertestesunitarios.business.csproj": {
+    "C:\\ProjetoCoach\\Teste Dani\\unitTests\\chaptertestesunitarios.business\\chaptertestesunitarios.business.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\dbrodrigues\\Desktop\\TESTE UNITARIO CHAPTER\\chaptertestesunitarios.business\\chaptertestesunitarios.business.csproj",
+        "projectUniqueName": "C:\\ProjetoCoach\\Teste Dani\\unitTests\\chaptertestesunitarios.business\\chaptertestesunitarios.business.csproj",
         "projectName": "chaptertestesunitarios.business",
-        "projectPath": "C:\\Users\\dbrodrigues\\Desktop\\TESTE UNITARIO CHAPTER\\chaptertestesunitarios.business\\chaptertestesunitarios.business.csproj",
+        "projectPath": "C:\\ProjetoCoach\\Teste Dani\\unitTests\\chaptertestesunitarios.business\\chaptertestesunitarios.business.csproj",
         "frameworks": {
           "net472": {
             "projectReferences": {
-              "C:\\Users\\dbrodrigues\\Desktop\\TESTE UNITARIO CHAPTER\\chaptertestesunitarios.infraestructure\\chaptertestesunitarios.infraestructure.csproj": {
-                "projectPath": "C:\\Users\\dbrodrigues\\Desktop\\TESTE UNITARIO CHAPTER\\chaptertestesunitarios.infraestructure\\chaptertestesunitarios.infraestructure.csproj"
+              "C:\\ProjetoCoach\\Teste Dani\\unitTests\\chaptertestesunitarios.infraestructure\\chaptertestesunitarios.infraestructure.csproj": {
+                "projectPath": "C:\\ProjetoCoach\\Teste Dani\\unitTests\\chaptertestesunitarios.infraestructure\\chaptertestesunitarios.infraestructure.csproj"
               }
             }
           }
@@ -23,42 +23,41 @@
         "net472": {}
       }
     },
-    "C:\\Users\\dbrodrigues\\Desktop\\TESTE UNITARIO CHAPTER\\chaptertestesunitarios.infraestructure\\chaptertestesunitarios.infraestructure.csproj": {
+    "C:\\ProjetoCoach\\Teste Dani\\unitTests\\chaptertestesunitarios.infraestructure\\chaptertestesunitarios.infraestructure.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\dbrodrigues\\Desktop\\TESTE UNITARIO CHAPTER\\chaptertestesunitarios.infraestructure\\chaptertestesunitarios.infraestructure.csproj",
+        "projectUniqueName": "C:\\ProjetoCoach\\Teste Dani\\unitTests\\chaptertestesunitarios.infraestructure\\chaptertestesunitarios.infraestructure.csproj",
         "projectName": "chaptertestesunitarios.infraestructure",
-        "projectPath": "C:\\Users\\dbrodrigues\\Desktop\\TESTE UNITARIO CHAPTER\\chaptertestesunitarios.infraestructure\\chaptertestesunitarios.infraestructure.csproj"
+        "projectPath": "C:\\ProjetoCoach\\Teste Dani\\unitTests\\chaptertestesunitarios.infraestructure\\chaptertestesunitarios.infraestructure.csproj"
       },
       "frameworks": {
         "net472": {}
       }
     },
-    "C:\\Users\\dbrodrigues\\Desktop\\TESTE UNITARIO CHAPTER\\chaptertestesunitarios\\chaptertestesunitarios.csproj": {
+    "C:\\ProjetoCoach\\Teste Dani\\unitTests\\chaptertestesunitarios\\chaptertestesunitarios.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dbrodrigues\\Desktop\\TESTE UNITARIO CHAPTER\\chaptertestesunitarios\\chaptertestesunitarios.csproj",
+        "projectUniqueName": "C:\\ProjetoCoach\\Teste Dani\\unitTests\\chaptertestesunitarios\\chaptertestesunitarios.csproj",
         "projectName": "chaptertestesunitarios",
-        "projectPath": "C:\\Users\\dbrodrigues\\Desktop\\TESTE UNITARIO CHAPTER\\chaptertestesunitarios\\chaptertestesunitarios.csproj",
-        "packagesPath": "C:\\Users\\dbrodrigues\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dbrodrigues\\Desktop\\TESTE UNITARIO CHAPTER\\chaptertestesunitarios\\obj\\",
+        "projectPath": "C:\\ProjetoCoach\\Teste Dani\\unitTests\\chaptertestesunitarios\\chaptertestesunitarios.csproj",
+        "packagesPath": "C:\\Users\\brfranco\\.nuget\\packages\\",
+        "outputPath": "C:\\ProjetoCoach\\Teste Dani\\unitTests\\chaptertestesunitarios\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\dbrodrigues\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\brfranco\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\dbrodrigues\\Desktop\\TESTE UNITARIO CHAPTER\\chaptertestesunitarios.business\\chaptertestesunitarios.business.csproj": {
-                "projectPath": "C:\\Users\\dbrodrigues\\Desktop\\TESTE UNITARIO CHAPTER\\chaptertestesunitarios.business\\chaptertestesunitarios.business.csproj"
+              "C:\\ProjetoCoach\\Teste Dani\\unitTests\\chaptertestesunitarios.business\\chaptertestesunitarios.business.csproj": {
+                "projectPath": "C:\\ProjetoCoach\\Teste Dani\\unitTests\\chaptertestesunitarios.business\\chaptertestesunitarios.business.csproj"
               }
             }
           }
@@ -72,6 +71,20 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerGen": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerUI": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
