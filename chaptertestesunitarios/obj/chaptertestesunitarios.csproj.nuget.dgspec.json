@@ -1,19 +1,19 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ProjetoCoach\\Teste Dani\\unitTests\\chaptertestesunitarios\\chaptertestesunitarios.csproj": {}
+    "C:\\Users\\dbrodrigues\\Desktop\\Unit Tests\\unitTests\\chaptertestesunitarios\\chaptertestesunitarios.csproj": {}
   },
   "projects": {
-    "C:\\ProjetoCoach\\Teste Dani\\unitTests\\chaptertestesunitarios.business\\chaptertestesunitarios.business.csproj": {
+    "C:\\Users\\dbrodrigues\\Desktop\\Unit Tests\\unitTests\\chaptertestesunitarios.business\\chaptertestesunitarios.business.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\ProjetoCoach\\Teste Dani\\unitTests\\chaptertestesunitarios.business\\chaptertestesunitarios.business.csproj",
+        "projectUniqueName": "C:\\Users\\dbrodrigues\\Desktop\\Unit Tests\\unitTests\\chaptertestesunitarios.business\\chaptertestesunitarios.business.csproj",
         "projectName": "chaptertestesunitarios.business",
-        "projectPath": "C:\\ProjetoCoach\\Teste Dani\\unitTests\\chaptertestesunitarios.business\\chaptertestesunitarios.business.csproj",
+        "projectPath": "C:\\Users\\dbrodrigues\\Desktop\\Unit Tests\\unitTests\\chaptertestesunitarios.business\\chaptertestesunitarios.business.csproj",
         "frameworks": {
           "net472": {
             "projectReferences": {
-              "C:\\ProjetoCoach\\Teste Dani\\unitTests\\chaptertestesunitarios.infraestructure\\chaptertestesunitarios.infraestructure.csproj": {
-                "projectPath": "C:\\ProjetoCoach\\Teste Dani\\unitTests\\chaptertestesunitarios.infraestructure\\chaptertestesunitarios.infraestructure.csproj"
+              "C:\\Users\\dbrodrigues\\Desktop\\Unit Tests\\unitTests\\chaptertestesunitarios.infraestructure\\chaptertestesunitarios.infraestructure.csproj": {
+                "projectPath": "C:\\Users\\dbrodrigues\\Desktop\\Unit Tests\\unitTests\\chaptertestesunitarios.infraestructure\\chaptertestesunitarios.infraestructure.csproj"
               }
             }
           }
@@ -23,41 +23,42 @@
         "net472": {}
       }
     },
-    "C:\\ProjetoCoach\\Teste Dani\\unitTests\\chaptertestesunitarios.infraestructure\\chaptertestesunitarios.infraestructure.csproj": {
+    "C:\\Users\\dbrodrigues\\Desktop\\Unit Tests\\unitTests\\chaptertestesunitarios.infraestructure\\chaptertestesunitarios.infraestructure.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\ProjetoCoach\\Teste Dani\\unitTests\\chaptertestesunitarios.infraestructure\\chaptertestesunitarios.infraestructure.csproj",
+        "projectUniqueName": "C:\\Users\\dbrodrigues\\Desktop\\Unit Tests\\unitTests\\chaptertestesunitarios.infraestructure\\chaptertestesunitarios.infraestructure.csproj",
         "projectName": "chaptertestesunitarios.infraestructure",
-        "projectPath": "C:\\ProjetoCoach\\Teste Dani\\unitTests\\chaptertestesunitarios.infraestructure\\chaptertestesunitarios.infraestructure.csproj"
+        "projectPath": "C:\\Users\\dbrodrigues\\Desktop\\Unit Tests\\unitTests\\chaptertestesunitarios.infraestructure\\chaptertestesunitarios.infraestructure.csproj"
       },
       "frameworks": {
         "net472": {}
       }
     },
-    "C:\\ProjetoCoach\\Teste Dani\\unitTests\\chaptertestesunitarios\\chaptertestesunitarios.csproj": {
+    "C:\\Users\\dbrodrigues\\Desktop\\Unit Tests\\unitTests\\chaptertestesunitarios\\chaptertestesunitarios.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ProjetoCoach\\Teste Dani\\unitTests\\chaptertestesunitarios\\chaptertestesunitarios.csproj",
+        "projectUniqueName": "C:\\Users\\dbrodrigues\\Desktop\\Unit Tests\\unitTests\\chaptertestesunitarios\\chaptertestesunitarios.csproj",
         "projectName": "chaptertestesunitarios",
-        "projectPath": "C:\\ProjetoCoach\\Teste Dani\\unitTests\\chaptertestesunitarios\\chaptertestesunitarios.csproj",
-        "packagesPath": "C:\\Users\\brfranco\\.nuget\\packages\\",
-        "outputPath": "C:\\ProjetoCoach\\Teste Dani\\unitTests\\chaptertestesunitarios\\obj\\",
+        "projectPath": "C:\\Users\\dbrodrigues\\Desktop\\Unit Tests\\unitTests\\chaptertestesunitarios\\chaptertestesunitarios.csproj",
+        "packagesPath": "C:\\Users\\dbrodrigues\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dbrodrigues\\Desktop\\Unit Tests\\unitTests\\chaptertestesunitarios\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\brfranco\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dbrodrigues\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\ProjetoCoach\\Teste Dani\\unitTests\\chaptertestesunitarios.business\\chaptertestesunitarios.business.csproj": {
-                "projectPath": "C:\\ProjetoCoach\\Teste Dani\\unitTests\\chaptertestesunitarios.business\\chaptertestesunitarios.business.csproj"
+              "C:\\Users\\dbrodrigues\\Desktop\\Unit Tests\\unitTests\\chaptertestesunitarios.business\\chaptertestesunitarios.business.csproj": {
+                "projectPath": "C:\\Users\\dbrodrigues\\Desktop\\Unit Tests\\unitTests\\chaptertestesunitarios.business\\chaptertestesunitarios.business.csproj"
               }
             }
           }

@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using chaptertestesunitarios;
 
 namespace chaptertestesunitarios.infraestructure.Models
 {
@@ -15,6 +16,5 @@ namespace chaptertestesunitarios.infraestructure.Models
         public string LastName { get; set; }
 
         public string LegalId { get; set; }
-
     }
 }

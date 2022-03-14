@@ -15,7 +15,7 @@ namespace chaptertestesunitarios.business.Customer.Dto
         public string LastName { get; set; }
 
         public string LegalId { get; set; }
-
+        
         public static explicit operator CustomerResponse(infraestructure.Models.Customer v)
         {
             return new CustomerResponse()

@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Ptn+3/6Ne6bTjRLS83MXZScaxDYLRY/ixlL4XphO4rW+HafW/Khiym+A3fC1OUqjFC00vQOPoUGgcK8ycYcStg==",
+  "dgSpecHash": "3tgYFM9Iz0a3CPduSNvEFnJNSBYTtm06yWmf79GAizvaoXvuqlLeDtinMqAuUmd0Gn+nLC0DDWoAhKhAHo//rA==",
   "success": true,
-  "projectFilePath": "C:\\ProjetoCoach\\Teste Dani\\unitTests\\chaptertestesunitarios\\chaptertestesunitarios.csproj",
+  "projectFilePath": "C:\\Users\\dbrodrigues\\Desktop\\Unit Tests\\unitTests\\chaptertestesunitarios\\chaptertestesunitarios.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\brfranco\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
-    "C:\\Users\\brfranco\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
-    "C:\\Users\\brfranco\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
-    "C:\\Users\\brfranco\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+    "C:\\Users\\dbrodrigues\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\dbrodrigues\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\dbrodrigues\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\dbrodrigues\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
   ],
   "logs": []
 }

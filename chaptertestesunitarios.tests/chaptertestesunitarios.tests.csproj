@@ -17,6 +17,11 @@
   <ItemGroup>
     <ProjectReference Include="..\chaptertestesunitarios.business\chaptertestesunitarios.business.csproj" />
     <ProjectReference Include="..\chaptertestesunitarios.infraestructure\chaptertestesunitarios.infraestructure.csproj" />
+    <ProjectReference Include="..\chaptertestesunitarios\chaptertestesunitarios.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Infra\" />
   </ItemGroup>
 
 </Project>
