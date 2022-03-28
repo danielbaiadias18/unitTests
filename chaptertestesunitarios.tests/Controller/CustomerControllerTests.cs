@@ -113,6 +113,38 @@ namespace chaptertestesunitarios.tests.Controller
             Assert.NotNull(result);
             Assert.Equal((int?)HttpStatusCode.OK, okAccountStatement.StatusCode);
         }
+
+        [Fact]
+        public void PostCustomer_InvalidLegalId()
+        {
+            //Arrange
+            List<Customer> mockCustomerResult = new List<Customer>()
+            {
+                new Customer()
+                {
+                    Id = 1,
+                    LastName = "Souza",
+                    LegalId = "12345478900",
+                    Name = "Luciano"
+                }
+            };
+
+            mockCustomerRepository.Setup(s => s.GetCustomerByName(It.IsAny<string>())).Returns(mockCustomerResult);
+
+            var mockLegalCustomer = new CustomerPostRequest()
+            {
+                Id = 1,
+                LastName = "Souza",
+                LegalId = "12345678900",
+                Name = "Luciano"
+            };
+
+            //Act
+            
+
+            //Assert
+            Assert.Throws<ArgumentException>(() => controller.Post(mockLegalCustomer));
+        }
         #endregion
     }
 }
